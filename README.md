@@ -13,3 +13,7 @@ The code is present in the .py file
 The output of the code will be a image.
 
 The image contains the generated QR of the URL which is Given as the input
+# Output
+The output of the script is a image which contains a QR code.
+
+The sample Output is present in __url_qrcode.png__ file.
